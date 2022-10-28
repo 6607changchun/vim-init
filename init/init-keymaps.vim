@@ -334,3 +334,4 @@ else
 endif
 
 
+map <C-n> :NERDTreeToggle<CR>

@@ -54,3 +54,5 @@ LoadScript init/init-text.vim
 
 " 自定义编译
 LoadScript init/init-build.vim
+
+LoadScript .vimrc
